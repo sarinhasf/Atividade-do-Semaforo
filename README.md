@@ -27,7 +27,7 @@ Para fazer com que o código funcione na placa, você precisa sinalizar no códi
 4. Simulador Wokwi;
 
 
-## Desenvolvedores
+## Desenvolvedora
  
 <table>
   <tr>
