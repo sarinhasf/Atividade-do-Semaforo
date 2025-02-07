@@ -16,7 +16,7 @@
       "top": 51.95,
       "left": 316.8,
       "rotate": 180,
-      "attrs": { "value": "220" }
+      "attrs": { "value": "330" }
     },
     {
       "type": "wokwi-resistor",
@@ -24,7 +24,7 @@
       "top": 100.25,
       "left": 373,
       "rotate": 180,
-      "attrs": { "value": "220" }
+      "attrs": { "value": "330" }
     },
     {
       "type": "wokwi-resistor",
@@ -32,7 +32,7 @@
       "top": 147.95,
       "left": 412.8,
       "rotate": 180,
-      "attrs": { "value": "220" }
+      "attrs": { "value": "330" }
     },
     { "type": "wokwi-led", "id": "led1", "top": 25.2, "left": 263, "attrs": { "color": "red" } },
     {
