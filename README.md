@@ -15,7 +15,7 @@ Com o emprego da função add_repeating_timer_ms(), presente na ferramenta Pico 
 ** A mudança de estado dos LEDs deve ser implementa na função de call-back do temporizador, a exemplo da rotina trabalhada na aula síncrona - repeating_timer_callback().
 ** Com o emprego da Ferramenta Educacional BitDogLab, faça um experimento com o código deste exercício utilizando o LED RGB – GPIOs 11, 12 e 13.
 
-## Observação de projeto
+## Observação do projeto
 No esquema do simulador eu utilizei corretamente os leds nas cores amarelo, vermlho e verde, porém na placa, como não temos o led amarelo, optei por usar as cores padrão do LED RGB da placa que seria vermelho, azul e verde. Assim, na placa a cor mais próxima para representar o amarelo foi a mistura entre todas as 3 cores, que resultou na branca, que na placa ela representaria a cor amarela. 
 Para fazer com que o código funcione na placa, você precisa sinalizar no código que está utilizando o código feito na placa, assim você precisa colocar a váriavel global "placa" como valor true e compilar novamente o código. 
 
